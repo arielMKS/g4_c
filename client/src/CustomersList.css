@@ -1,0 +1,18 @@
+.CustomersList {
+    border: 1px solid #61dafb;
+    padding: 1em;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.myCard {
+    padding: 0.5em;
+}
+
+.myRow {
+    margin: 0 auto;
+}
+
+.myInput {
+    margin: 0.25em;
+}
